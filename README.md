@@ -1,1 +1,1 @@
-# codeclause_internship_project4_Music_Streaming_Application
+# codeclause_internship_project4(Golden Project)_Music_Streaming_Application
